@@ -1,0 +1,5 @@
+name: Nurzat
+occupation: Software IT
+objective: coding
+
+
