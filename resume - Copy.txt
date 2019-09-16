@@ -1,0 +1,5 @@
+name: Nuri
+occupation: Software IT
+objective: coding
+strength: there are many of them and also good at Git
+address: heart and soul of american heart
